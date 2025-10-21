@@ -1,0 +1,1 @@
+Assignments for [CS 285: Deep Reinforcement Learning (UC Berkeley, Fall 2023)](https://rail.eecs.berkeley.edu/deeprlcourse/).
